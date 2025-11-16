@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "350159954418",
+    "project_id": "lommo-4b036",
+    "storage_bucket": "lommo-4b036.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350159954418:android:981b8b6e2d850b03500b6b",
+        "android_client_info": {
+          "package_name": "com.lommo.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm4LrTPCtq_1TyNUWuQXrWyD1xoAYD6Xk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
